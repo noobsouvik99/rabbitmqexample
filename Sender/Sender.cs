@@ -11,7 +11,7 @@ channel.QueueDeclare(queue: "hello",
                      autoDelete: false,
                      arguments: null);
 
-const string message = "Hello World!";
+const string message = "Hello RabbitMQ!";
 var body = Encoding.UTF8.GetBytes(message);
 
 channel.BasicPublish(exchange: string.Empty,
