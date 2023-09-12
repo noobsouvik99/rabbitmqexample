@@ -1,0 +1,17 @@
+/Users/souvikpanda/Downloads/DOT NET/RabbitMQ/Sender/bin/Debug/net7.0/Sender
+/Users/souvikpanda/Downloads/DOT NET/RabbitMQ/Sender/bin/Debug/net7.0/Sender.deps.json
+/Users/souvikpanda/Downloads/DOT NET/RabbitMQ/Sender/bin/Debug/net7.0/Sender.runtimeconfig.json
+/Users/souvikpanda/Downloads/DOT NET/RabbitMQ/Sender/bin/Debug/net7.0/Sender.dll
+/Users/souvikpanda/Downloads/DOT NET/RabbitMQ/Sender/bin/Debug/net7.0/Sender.pdb
+/Users/souvikpanda/Downloads/DOT NET/RabbitMQ/Sender/bin/Debug/net7.0/RabbitMQ.Client.dll
+/Users/souvikpanda/Downloads/DOT NET/RabbitMQ/Sender/obj/Debug/net7.0/Sender.csproj.AssemblyReference.cache
+/Users/souvikpanda/Downloads/DOT NET/RabbitMQ/Sender/obj/Debug/net7.0/Sender.GeneratedMSBuildEditorConfig.editorconfig
+/Users/souvikpanda/Downloads/DOT NET/RabbitMQ/Sender/obj/Debug/net7.0/Sender.AssemblyInfoInputs.cache
+/Users/souvikpanda/Downloads/DOT NET/RabbitMQ/Sender/obj/Debug/net7.0/Sender.AssemblyInfo.cs
+/Users/souvikpanda/Downloads/DOT NET/RabbitMQ/Sender/obj/Debug/net7.0/Sender.csproj.CoreCompileInputs.cache
+/Users/souvikpanda/Downloads/DOT NET/RabbitMQ/Sender/obj/Debug/net7.0/Sender.csproj.CopyComplete
+/Users/souvikpanda/Downloads/DOT NET/RabbitMQ/Sender/obj/Debug/net7.0/Sender.dll
+/Users/souvikpanda/Downloads/DOT NET/RabbitMQ/Sender/obj/Debug/net7.0/refint/Sender.dll
+/Users/souvikpanda/Downloads/DOT NET/RabbitMQ/Sender/obj/Debug/net7.0/Sender.pdb
+/Users/souvikpanda/Downloads/DOT NET/RabbitMQ/Sender/obj/Debug/net7.0/Sender.genruntimeconfig.cache
+/Users/souvikpanda/Downloads/DOT NET/RabbitMQ/Sender/obj/Debug/net7.0/ref/Sender.dll

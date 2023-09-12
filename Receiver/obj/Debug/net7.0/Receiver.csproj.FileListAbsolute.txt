@@ -1,0 +1,17 @@
+/Users/souvikpanda/Downloads/DOT NET/RabbitMQ/Receiver/bin/Debug/net7.0/Receiver
+/Users/souvikpanda/Downloads/DOT NET/RabbitMQ/Receiver/bin/Debug/net7.0/Receiver.deps.json
+/Users/souvikpanda/Downloads/DOT NET/RabbitMQ/Receiver/bin/Debug/net7.0/Receiver.runtimeconfig.json
+/Users/souvikpanda/Downloads/DOT NET/RabbitMQ/Receiver/bin/Debug/net7.0/Receiver.dll
+/Users/souvikpanda/Downloads/DOT NET/RabbitMQ/Receiver/bin/Debug/net7.0/Receiver.pdb
+/Users/souvikpanda/Downloads/DOT NET/RabbitMQ/Receiver/bin/Debug/net7.0/RabbitMQ.Client.dll
+/Users/souvikpanda/Downloads/DOT NET/RabbitMQ/Receiver/obj/Debug/net7.0/Receiver.csproj.AssemblyReference.cache
+/Users/souvikpanda/Downloads/DOT NET/RabbitMQ/Receiver/obj/Debug/net7.0/Receiver.GeneratedMSBuildEditorConfig.editorconfig
+/Users/souvikpanda/Downloads/DOT NET/RabbitMQ/Receiver/obj/Debug/net7.0/Receiver.AssemblyInfoInputs.cache
+/Users/souvikpanda/Downloads/DOT NET/RabbitMQ/Receiver/obj/Debug/net7.0/Receiver.AssemblyInfo.cs
+/Users/souvikpanda/Downloads/DOT NET/RabbitMQ/Receiver/obj/Debug/net7.0/Receiver.csproj.CoreCompileInputs.cache
+/Users/souvikpanda/Downloads/DOT NET/RabbitMQ/Receiver/obj/Debug/net7.0/Receiver.csproj.CopyComplete
+/Users/souvikpanda/Downloads/DOT NET/RabbitMQ/Receiver/obj/Debug/net7.0/Receiver.dll
+/Users/souvikpanda/Downloads/DOT NET/RabbitMQ/Receiver/obj/Debug/net7.0/refint/Receiver.dll
+/Users/souvikpanda/Downloads/DOT NET/RabbitMQ/Receiver/obj/Debug/net7.0/Receiver.pdb
+/Users/souvikpanda/Downloads/DOT NET/RabbitMQ/Receiver/obj/Debug/net7.0/Receiver.genruntimeconfig.cache
+/Users/souvikpanda/Downloads/DOT NET/RabbitMQ/Receiver/obj/Debug/net7.0/ref/Receiver.dll
